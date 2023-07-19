@@ -18,6 +18,8 @@ banner-error-slow-1 = توربەت سۈرئىتىنىڭ ئاستىلىقىدىن
 banner-error-slow-2 = بىز زور مىقداردىكى زىيارەت ئېقىم بىسىمىغا ئۇچرىدۇق، ھازىر ئالاقىدار مەسىلىلەرنى تەكشۈرۈپ بىر تەرەپ قىلىۋاتىمىز.
 banner-error-slow-link = ھالەت بېتى
 error-something-went-wrong = كەچۈرۈڭ ، ئازراق چاتاق چىقتى
+error-clip-upload = بۇ قىسقۇچنى يۈكلەش مەغلۇپ بولدى ، قايتا سىنامسىز؟
+error-clip-upload-server = بۇ ئاۋاز خاتىرىسىنى مۇلازىمېتىرغا يۈكلىگىلى بولمايۋاتىدۇ. بەتنى يېڭىلاڭ ياكى كېيىن قايتا سىناپ بېقىڭ.
 
 # Don't rename the following section, its contents are auto-inserted based on the name (see scripts/pontoon-languages-to-ftl.js)
 # [Languages]
@@ -40,10 +42,13 @@ ba = باشقىرتچە
 bas = باساچە
 be = بېلورۇسچە
 bg = بۇلغارچە
+bm = بامباراچە
 bn = بېنگالچە
+bo = تىبەتچە
 br = بىرېتونچە
 bs = بوسنىيەچە
 bxr = بۇرياتچە
+byv = مېدۇمباچە
 ca = كاتالانچە
 cak = كاكچىكىلچە
 ckb = سورانى كۇردچە
@@ -53,6 +58,7 @@ cs = چېخچە
 cv = چۇۋاشچە
 cy = ۋېلشچە
 da = دانىشچە
+dag = داگبانىچە
 de = گېرمانچە
 dsb = تۆۋەن سېربچە
 dv = دىۋەخىچە
@@ -76,6 +82,7 @@ gom = كونكانىچە
 ha = خائۇساچە
 he = ئىبرانىچە
 hi = ھىندىچە
+hil = خىلىگاينونچە
 hr = كىرودىيەچە
 hsb = يۇقىرى سېربچە
 ht = ھايتىچە
@@ -90,6 +97,7 @@ is = ئىسلاندچە
 it = ئىتاليانچە
 izh = ئىزورانچە
 ja = ياپونچە
+jbo = لوجبانچە
 ka = گىرۇزىنچە
 kaa = قاراقالپاقچە
 kab = كابىلېچە
@@ -98,6 +106,7 @@ ki = كىكۇيۇچە
 kk = قازاقچە
 km = كىخمېرچە
 kmr = كۇرمانجى كۇردچە
+kn = كانناداچە
 knn = كونكانىچە(Devanagari)
 ko = كورېيەچە
 kpv = كومى زىرىيانچە
@@ -106,7 +115,10 @@ ky = قىرغىزچە
 lb = لىيۇكسېمبۇرگچە
 lg = گانداچە
 lij = لېگىرىچە
+ln = لىنگالاچە
+lo = لائوسچە
 lt = لىتۋاچە
+ltg = لاتگالىيانچە
 lv = لاتۋىيەچە
 mai = مايتىلىچە
 mdf = موكشاچە
@@ -125,13 +137,16 @@ my = بېرمىچە
 myv = ئېرزاچە
 nan-tw = تەيۋەنچە(Minnan)
 nb-NO = بوكمالچە
-nd = IsiNdebele (North)
+nd = شىمالىي ندېبېلېچە
 ne-NP = نېپالچە
+nhe = شەرقىي خۇۋاستېكا ناخۇاتولچە
+nhi = غەربىي سىيررا پيېبلا ناخۇئات تىلى
 nia = نىئاسچە
 nl = گوللاندىيەچە
 nn-NO = يېڭى نورۋېگچە
-nr = IsiNdebele (South)
+nr = جەنۇبىي ندېبېلېچە
 nso = شىمالىي سوتوچە
+ny = چىنيانجاچە
 nyn = نىيانكولېچە
 oc = ئاۋكچە
 om = ئورومچە
@@ -152,11 +167,13 @@ sah = ياقۇتچە
 sat = سانتالىچە(ئول چىكى يېزىقى)
 sc = ساردىنىيەچە
 scn = سىتسىلىيەچە
+sdh = جەنۇبىي كۇردچە
 shi = شىلخاچە
 si = سىنگالچە
 sk = سىلوۋاكچە
 skr = سارايكىچە
 sl = سىلوۋېنىيەچە
+snk = سونىنكەچە
 so = سومالىچە
 sq = ئالبانچە
 sr = سېربچە
@@ -180,6 +197,7 @@ ts = سونگاچە
 tt = تاتارچە
 tw = تىۋىچە
 ty = تاختىچە
+tyv = تۇۋاچە
 uby = Ubykh
 udm = ئۇدمۇرتچە
 ug = ئۇيغۇرچە
@@ -190,14 +208,17 @@ ve = ۋېنداچە
 vec = ۋېنداچە
 vi = ۋىيېتنامچە
 vot = ۋوتېچە
+wo = ۋولوفچە
 xh = خوساچە
 yi = يىددىشچە
 yo = يورۇباچە
 yue = گۇاڭدۇڭچە
+zgh = بەربەرچە
 zh-CN = خەنزۇچە(جۇڭگو)
 zh-HK = خەنزۇچە(شياڭگاڭ)
 zh-TW = خەنزۇچە(تەيۋەن)
 zu = زۇلۇچە
+zza = زازاچە
 
 # [/]
 
@@ -209,6 +230,7 @@ speak-now = سۆزلەڭ
 datasets = سانلىق-مەلۇمات توپلىمى
 languages = تىللار
 about = ھەققىدە
+partner = ھەمكارلاشقۇچى
 profile = تەرجىمىھال
 help = ياردەم
 contact = ئالاقىلىشىڭ
@@ -241,7 +263,7 @@ vote-yes = بولۇپتۇ
 vote-no = بولماپتۇ
 toggle-play-tooltip = { shortcut-play-toggle } نى بېسىش ئارقىلىق قويۇش ھالىتىگە ئالماشتۇرۇڭ
 speak-subtitle = ئاۋازىڭىزنى ئىئانە قىلىڭ
-speak-paragraph = ئاۋازنى ئۈنگە ئېلىش ئوچۇق سانلىق-مەلۇمات توپلىمىنىڭ كەم بولسا بولمايدىغان تەركىبىي قىسمىدۇر. بەزىلەر بۇ قىسمىنى قىزىقارلىق بۆلەك دەپمۇ قارايدۇ.
+speak-paragraph = ئاۋازنى ئۈنگە ئېلىش ئوچۇق سانلىق مەلۇمات توپلىمىنىڭ كەم بولسا بولمايدىغان تەركىبىي قىسمىدۇر. بەزىلەر بۇ قىسمىنى قىزىقارلىق بۆلەك دەپمۇ قارايدۇ.
 speak-goal-text = ئاۋاز ئۈنگە ئېلىندى
 listen-subtitle = ئاۋازنى دەلىللەشكە ياردەملىشىڭ
 listen-paragraph = ئىئانە قىلىنغان ئاۋازلارنى دەلىللەش Common Voice ئۈچۈن ئۈچۈن ئوخشاشلا مۇھىم ۋەزىپە. ئاڭلاڭ ۋە سۈپەتلىك ئوچۇق مەنبەلىك ئاۋاز سانلىق مەلۇماتىنى ھاسىل قىلىشىمىزغا ياردەم قىلىڭ.
@@ -250,7 +272,7 @@ hours-recorded = ئۈنگە ئېلىنغان سائەت
 hours-validated = دەلىللەنگەن سائەت
 voices-online = توردىكى ئاۋازلار
 todays-progress = بۈگۈنكى ئىلگىرىلەش
-help-reach-goal = { $goal }غا يېتىشىمىزغا ياردەم قىلىڭ
+help-reach-goal = { $goal } گە يېتىشىمىزگە ياردەم قىلىڭ
 read-terms-q = بىزنىڭ شەرتلىرىمىزنى ئوقۇدىڭىزمۇ؟
 ready-to-record = ئاۋازىڭىزنى ئىئانە قىلىشقا تەييارمۇ؟
 all-locales = ھەممىسى
@@ -270,7 +292,7 @@ x-years-short =
         [one] بىر يىل
        *[other] يىل
     }
-help-make-dataset = يۇقىرى سۈپەتلىك ، ئوچۇق سانلىق-مەلۇمات توپلىمى قۇرۇشىمىزغا ياردەم قىلىڭ.
+help-make-dataset = يۇقىرى سۈپەتلىك، ئوچۇق سانلىق مەلۇمات توپلىمى قۇرۇشىمىزغا ياردەم قىلىڭ.
 sign-up-account = تىزىملىتىڭ
 email-subscription-title = ئېلخەت يېڭىلاشقا تىزىملىتىڭ
 email-subscription-title-new = Common Voice نىڭ خەۋەرلىرىگە، نىشان ئەسكەرتىشىگە ۋە ئىلگىرىلەش يېڭىلانمىلىرىغا تىزىملىتىڭ
@@ -287,10 +309,10 @@ join-newsletter = تۈر توغرىسىدىكى يېڭىلانمىلار ۋە ي
 
 ## What's public
 
-whats-public = ئاممىۋى دېگەن نېمە؟
+whats-public = قايسى ئۇچۇرلار ئاشكارا بولىدۇ؟
 email-not-public = بىز ئېلخەتلىرىڭىزنى ئاشكارىلىمايمىز.
-recordings-and-locale-public = ئۈن خاتىرىڭىز ۋە قايسى تىلغا تۆھپە قوشقانلىقىڭىز ئاشكارا ھالدا بولىدۇ.
-username-optin-public = ئىشلەتكۈچى ئىسمىڭىزنى ئاشكارىلاش ياكى نامسىز قىلىشنى تاللىسىڭىز بولىدۇ.
+recordings-and-locale-public = ئۈنگە ئېلىنغان ئاۋاز سانىڭىز ۋە قايسى تىلغا تۆھپە قوشقانلىقىڭىز ئاشكارا ھالدا بولىدۇ.
+username-optin-public = ئىشلەتكۈچى ئىسمىڭىزنى ئاشكارا قىلىش ياكى نامسىز قىلىشنى تاللىيالايسىز.
 demographic-deidentified-clarity-2 = ئىختىيارىي يوللانغان تەرجىمىھالىڭىزدىكى نوپۇس ئۇچۇرىڭىز (مەسىلەن ياش، جىنس، تىل ۋە تەلەپپۇز)  ھەرگىز ئاشكارىلانمايدۇ ، شۇنداقلا سانلىق مەلۇمات جەدۋىلىدىكى ھېساباتىڭىزغا ئۇلانمايدۇ. بىر قەدەر توغرا بولغان ئانالىز مەقسىتى ئۈچۈنلا نوپۇس ئۇچۇرىڭىز ئىشلىتىدۇ - مەسىلەن، بىر تەتقىقاتچى مەلۇم ئۆگىتىش ئەندىزىسىنى مەلۇم بىر نوپۇس بۆلىكىگە نىشانلىماقچى بولغان بولسا دېگەندەك.
 username-email-not-demographic = ئىشلەتكۈچى ئىسمىڭىز ۋە ئېلخەتلىرىڭىز ئېلان قىلىنغان سانلىق مەلۇماتلار بىلەن باغلانمايدۇ.
 
@@ -365,7 +387,7 @@ profile-form-gender-2 =
     .label = جىنسى
 leaderboard-visibility =
     .label = شەرەپ تاختىنىڭ كۆرۈنۈشچانلىقى
-hidden = يۇشۇرۇن
+hidden = يوشۇرۇن
 visible = كۆرۈنۈشچان
 native-language =
     .label = ئانا تىل
@@ -394,20 +416,23 @@ why-demographic = بۇ نېمە ئۈچۈن مۇھىم؟
 why-demographic-explanation-2 = ياش ، جىنس ۋە تەلەپپۇزغا ئوخشاش ئۇچۇرلىرىڭىز ئاۋاز پەرقلەندۈرۈش ماتورىنى مەشىقلەندۈرۈشتە ئىشلىتىلىدىغان ئاۋاز سانلىق مەلۇماتلىرىنى ياخشىلاشقا ياردەم بېرىدۇ. ئىشلەتكۈچى ئىسمىڭىز ۋە ئېلخەت ئادرېسىڭىز ھەرگىزمۇ يوللىغان سانلىق مەلۇماتلىرىڭىز بىلەن باغلانمايدۇ ، ئىشلەتكۈچى ئىسمىڭىزنى ئاشكارىلاش ياكى نامسىز قىلىشنى ئۆزىڭىز تاللىسىڭىز بولىدۇ.
 accept-privacy = مىنىڭ بۇ ئۇچۇرلارنىڭ Mozilla نىڭ  <privacyLink> شەخسىيەت تۈزۈمى</privacyLink> دە چۈشەندۈرۈلگەن بويىچە بىر تەرەپ قىلىنىشىغا باشقا پىكىرىم يوق
 accept-privacy-title = شەخسىيەت تۈزۈمى
+accept-privacy-and-terms = مەن Common Voice نىڭ <termsLink> شەرتلىرى </termsLink> ۋە <privacyLink>مەخپىيەتلىك ئۇقتۇرۇشى </privacyLink> غا قوشۇلىمەن.
 login-identity = كىرىش كىملىكى
+login = كىرىش
 login-signup = كىرىڭ / تىزىملىتىڭ
 edit = تەھرىرلەش
 email-subscriptions = ئېلخەت مۇشتەرىلىكى
-download-profile = سانلىق مەلۇماتىمىنى چۈشۈرىمەن
+download-profile = سانلىق مەلۇماتىمنى چۈشۈرىمەن
 contribution-experience = تۆھپە تەجرىبىسى
 skip-submission-feedback = تەكلىپ يوللاشتىن ئاتلا
 skip-submission-description = تۆھپىڭىز تاپشۇرۇش جەريانىدا «يوللاش» چېكىلسە تەكلىپ يوللاشتىن ئاتلاپ ئۆتۈپ كېتىدۇ. تۆھپە كېيىنكى 5 يۈرۈش خاتىرىلەش ياكى دەلىللەش بىلەن بىۋاسىتە داۋاملىشىدۇ.
-skip-submission-note = ئەسكەرتىش: سىز يەنىلا سۆزلەش ياكى ئاڭلاشنى تاللاپ تۆھپە قوشۇش ئۇسۇلىنى تاللىشىڭىز كېرەك.
+skip-submission-note = ئەسكەرتىش: سىز يەنىلا «سۆزلەش» ياكى «ئاڭلاش»نى تاللاش ئارقىلىق تۆھپە قوشۇش ئۇسۇلىنى تاللىشىڭىز كېرەك.
 off = تاقاق
 on = ئوچۇق
 help-accent = تەلەپپۇزدا ئازراق ياردەم كېرەكمۇ؟
 help-accent-explanation = تەلەپپۇزىڭىز سىزنىڭ سۆزلەرنى قايسى يوسۇندا تەلەپپۇز قىلىش ئۇسۇلىڭىز. ئۇ سىز ياشىغان جاي ، سىز سۆزلەيدىغان باشقا تېللار قاتارلىق باشقا نۇرغۇن ئامىللارنىڭ تەسىىرگە ئۇچۇرغان بولىدۇ. بۇنىڭغا مۇناسىۋەتلىك دەپ قارىغان ئۇچۇرلارنى بۇ يەردە ئورتاقلىشالايسىز.
 help-variants = ۋارىيانتلارغا ئازراق ياردەم كېرەكمۇ؟
+help-variants-explanation = ۋارىيانتلار بىر تىلنىڭ، مەسىلەن مەلۇم جۇغراپىيەلىك ماكان ياكى مەلۇم رايوندىكى خەلقلەرنىڭ ئۆزىگە خاس ئالاھىدىلىكى بولۇپ ھېسابلىنىدۇ. بەزىدە بۇلار دىيالېكت دەپمۇ ئاتىلىدۇ.
 
 ## Profile - Email
 
@@ -437,6 +462,10 @@ faq-what-cv-a =
     Common Voice بولسا Mozilla نىڭ ئاۋاز پەرقلەندۈرۈش تېخنىكىسىنى تېخىمۇ ياخشى ۋە كۆپچىلىككە تېخىمۇ قۇلايلىق يارىتىش تەشەببۇسىنىڭ بىر قىسمى.Common Voice دۇنيا مىقياسىدىكى ئىئانە قىلىنغان ئاۋازلارنىڭ ئامبىرى بولۇپ، ھەرقانداق بىر شەخسنىڭ ھەرقانداق بىر تىلدا ئاۋازلارنى مەشىق قىلدۇرۇشىنى تىز ۋە قۇلاي بولغان ئىمكان بىلەن تەمىن ئېتىدۇ.
     
     بىز ئىشلىتىشچانلىقى كەڭ بولغان تىللاردىكى ئاۋاز ئەۋرىشكىسىنى توپلاپلا قالماي، يەنە نوپۇسى بىرقەدەر ئاز بولغان باشقا تىللارنىڭمۇ ئەۋرىشكىسى توپلايمىز. كەڭ دائىرىدىكى ئاۋاز ئامبىرىنى تەمىنلەش ئاچقۇچىلار،ئىگىلىك تىكلىگۈچىلەر ۋە جەمئىيەتلەرنىڭ ئۆزدىكى بوشلۇقنى تولدۇرۇشنى ئىمكانىيەت بىلەن تەمىنلەيدۇ.Common Voice نىڭ ئاۋاز ئامبىرىدىن باشقا بىز يەنە ئوچۇق كود مەنبەلىك ئاۋاز پەرقلەندۈرۈش ماتورى بولغان Deep Speech نى ياساۋاتىمىز.
+faq-what-cv-a-2 =
+    ئاۋاز تونۇش تېخنىكىسى بىزنىڭ ماشىنىلار بىلەن ئۆزئارا تەسىر قىلىش ئۇسۇلىمىزنى تۈپتىن ئۆزگەرتىۋاتقان بولسىمۇ، ئەمما ھازىر ئىشلەتكىلى بولىدىغان سىستېمىلار قىممەت ھەمدە مونوپول قىلىۋېلىنغان ھالەتتە تۇرماقتا. Mozilla Common Voice بولسا ئاۋاز تونۇش تېخنىكىسىنى تېخىمۇ ياخشى قىلىدىغان ۋە ئۇنىڭدىن ھەرقانداق ئادەمنى پايدىلىنىش ئىمكانىيىتىگە ئىگە قىلىدىغان بىر تۈردۇر. Common Voice بولسا ئىئانە قىلىنغان ئاۋازلارنىڭ دۇنياۋى خاراكتېرلىك غايەت زور سانلىق مەلۇمات ئامبىرى بولۇپ، ھەرقانداق ئادەم ھەر قانداق بىر تىلدىكى ئاۋازلىق ئىقتىدارغا ئىگە ئەپلەرنى تېز ۋە ئاسان مەشىق قىلدۇرالايدۇ.
+    
+    بىز كەڭ قوللىنىلىدىغان تىللاردىكى ئاۋاز ئەۋرىشكىسىنى توپلاپلا قالماي، يەنە سۆزلىشىدىغانلار بىرقەدەر ئاز بولغان تىللارنىڭ ئاۋاز ئەۋرىشكىسىنىمۇ توپلاۋاتىمىز. كۆپ خىل ئاۋازلىق سانلىق مەلۇماتلارنى ئېلان قىلىش ئارقىلىق سىستېما ئاچقۇچىلار، كارخانىچىلار ۋە جەمئىيەتلەرنىڭ بۇ بوشلۇقنى ئۆزلىرى ھەل قىلىشىغا ياردەم بېرىمىز.
 faq-why-important-q = بۇ نېمە ئۈچۈن مۇھىم؟
 faq-why-important-a =
     سۆزلەش كۆپىنچە بىز بىر-بىرىمىز بىلەن ئالاقە قىلىدىغان ئەڭ تەبىئىي ئۇسۇل بولۇپ ، ئاۋاز تېخنىكىسى كومپيۇتېر ۋە كۆچمە ئۈسكۈنىلىرىمىزگە بۇ قۇلايلىقلارنى ئېلىپ كېلىدۇ.بىز پروگرامما ئاچقۇچىلارغا ھەقىقىي تەرجىمان ۋە ئاۋازلىق رەقەملىك ياردەمچى قاتارلىق ھەيران قالارلىق ئاۋاز پەرقلەندۈرۈش پروگراممىلىرىنى بارلىققا كەلتۈرۈشى ئۈچۈن ياردەمدە بولىمىز. ئەمما ھازىر بۇ خىل ئەپلەرنى ياساشقا ئېھتىياجلىق ئاۋازلىق سانلىق مەلۇماتلارنىڭ كۆپىنچىسى قىممەت ۋە باشقىلارنىڭ ئىگىدارچىلىقىدا.Common Voice سانلىق مەلۇمات ئامبىرىنىڭ ئاچقۇچىلارنى يېڭىلىق يارىتىشقا ئېھتىياجلىق نەرسىلەر ۋە ئۆز تىلدىكى سۆزلەش تېخنىكىسىنى بارلىققا كەلتۈرۈش ئىمكانىيىتىگە ئىگە قىلىشىنى ئۈمىد قىلىمىز.
@@ -452,20 +481,21 @@ faq-what-cv-and-deepspeech-q = Common Voice بىلەن Deep Speech نىڭ قان
 faq-what-cv-and-deepspeech-a = Common Voice سانلىق مەلۇمات ئامبىرى Mozilla نىڭ ئوچۇق كودلۇق ئاۋاز پەرقلەندۈرۈش ماتورى Deep Speech نى قوللايدۇ. Deep Speech نىڭ تۇنجى نەشىرى 2017 يىلى نويابىردا تارقىتىلغان بولۇپ، شۇنىڭدىن تارتىپ ئىزچىل تەرەققىي قىلىۋاتىدۇ.بىز شۇنىڭغا ئىشىنىمىزكى Common Voice ئاۋازلىق سانلىق مەلۇماتنىڭ تۈرتكىسى ئارقىلىق ئوچۇق بولغان ئاۋاز پەرقلەندۈرۈش تېخنىكىسى ھەر بىرىمىزگە يىتىپ بارالايدۇ. شۇنداقلا ئاچقۇچىلارنى يېڭىلىققا تولغان مەھسۇلات ۋە مۇلازىمەتنى بەرپا قىلىش دولقۇنىنى ھاسىل قىلىش ئىمكانىيىتىگە ئىگە قىلىشىنى ئۈمىد قىلىمىز.
 faq-is-goal-assistant-q = Common Voice نىڭ نىشانى ئاۋاز ياردەمچىسىنى قۇرۇشمۇ؟
 faq-is-goal-assistant-a = Common Voice سانلىق مەلۇمات ئامبىرىنىڭ مەقسىتى دۇنيادىكى ھەر قانداق كىشىنىڭ ئاۋاز پەرقلەندۈرۈش ، سۆزلىگۈچىنى تونۇش ياكى ئاۋازلىق سانلىق مەلۇمات تەلەپ قىلىدىغان باشقا قوللىنىشچان پروگراممىلارنى بەرپا قىلىش. ئاۋازلىق ياردەمچى بولسا سانلىق مەلۇمات توپىنى ئىشلىتىپ قۇرۇشقا بولىدىغان باشقا نۇرغۇن پروگراممىلارنىڭ ئىچىدىكى بىرى.
-faq-do-want-native-q = بۇ مىنىڭ ئانا تېلىم ئەمەس شۇنداقلا سۆزلىگەندە ئۆزگىچە ئاھاڭ بار، شۇنداقتىمۇ مىنىڭ ئاۋازىمنى ئىشلىتشنى خالامسلەر؟
+faq-do-want-native-q = بۇ مېنىڭ ئانا تىلىم ئەمەس، شۇنداقلا مەن سۆزلىگەندە يەرلىك شېۋە بىلەن سۆزلەيمەن. شۇنداقتىمۇ سىلەر مېنىڭ ئاۋازىمنى ئىشلىتىشنى خالامسىلەر؟
 faq-do-want-native-a = شۇنداق، بىز سىزنىڭ ئاۋازىڭىزغا بەك موھتاج! ئىمكانقەدەر ئوخشىمىغان تەلەپپۇزلارنى توپلاش Common Voice نىڭ مەقسىتىنىڭ بىر قىسمى بولۇپ بۇ ئارقىلىق ئاۋاز پەرقلەندۈرۈشنىڭ ھەر بىرىمىز ئۈچۈن ئوخشا سەۋىيەدە خىزمەت قىلىشى ئۈچۈن. بۇ شۇنداقلا ئانا تىلى بولمىغان سۆزلىگۈچىلەرنىڭ تەقدىم قىلغان ئاۋازى تېخىمۇ مۇھىملىقىدىن دېرەك بېرىدۇ.
 faq-why-different-speakers-q = نېمە ئۈچۈن بىر تىل ئۈچۈن نۇرغۇن ئوخشىمىغان سۆزلىگۈچىلەرنى لازىم قىلسلەر؟
 faq-why-different-speakers-a =
     كۆپىنچە ئاۋاز سانلىق مەلۇمات ئامبىرىدا نوپۇسنىڭ مەلۇم بىر بۆلىكىگە مەركەزلىشىپ قالغان بولۇپ بۇ خىل ئەھۋال <articleLink>ئەر ۋە ئوتتۇراھال تۇرمۇش سەۋىيەدىكى</articleLink> كىشىلەرگە ئېغىشنى كەلتۈرۈپ چىقارغان. بۇنىڭ بىلەن چەتكە قېقىلىپ قالغان بىر بۆلەك كىشىلەرنىڭ تەلەپپۇزى ۋە شېۋىسى مەشىقلەندۈرۈلگەن سانلىق مەلۇماتتا ئىپادىلەنمەي قالغان. نۇرغۇنلىغان ماشىنىلار ئاياللارنىڭ ئاۋازىنى پەرقلەندۈرۈشتە قىيىن ئەھۋالغا دۇچ كېلىدۇ.
     مانا بۇ بىزنىڭ نېمە ئۈچۈن بىزنىڭ ئاۋاز ئامبىرىدا كۆپ خىللىقنى تەشەببۇس قىلىشىمىزنىڭ سەۋەبى!
 faq-why-my-lang-q = مېنىڭ تىلىم نېمىشقا تېخى كىرگۈزۈلمەيدۇ؟
+faq-why-my-lang-a = Common Voice بولسا ئاممىۋى مەنبەلىك سۇپا بولۇپ ، بۇنىڭدىكى تىللارنىڭ ھەممىسى پىدائىيلار تەرىپىدىن قوشۇلغان. تىلىڭىزنى قوشۇشىڭىزنى قارشى ئالىمىز! <languageRequestLink> تىلىڭىزنى قوشۇشنى تەلەپ قىلىڭ. <languageRequestLink>
 faq-what-quality-q = ئاۋاز ساندانىدا ئىشلىتىلىشى ئۈچۈن ئاۋاز سۈپىتىگە بولغان تەلەپنىڭ دەرىجىسى قانداق؟
 faq-what-quality-a = ئاۋازنى تېكىستقا ئايلاندۇرۇش ماتورىنىڭ رېئاللىقتىكى ئاۋازلارنى بىر تەرەپ قىلالىشى ئۈچۈن بىز Common Voice سانلىق مەلۇمات ئامبىرىدىكى ئاۋازلارنىڭ رېئال سەۋىيەدە بولۇشىنى ئارزۇ قىلىمىز، شۇڭلاشقا بىز كۆپ خىللىقىنى تەشەببۇس قىلىمىز. كۆپ خىللىققا ئىگە بولغان سۆزلۈگىچىلەردىن باشقا، ئاۋازنى تېكىستقا ئايلاندۇرۇش ماتورىنىڭ ھەرخىل رېئال ئەھۋاللاردىكى ئاۋازلارنى بىر تەرەپ قىلىشى ئۈچۈن سانلىق مەلۇماتىدىكى ئاۋازلارنىڭ باشقىلارنىڭ سۆزلەۋاتقان ئاۋازىدىن تارتىپ ماشىنىنىڭ شاۋقۇننىڭ بولۇشى دېگەندەك ھەر خىل سەۋىيەدە بولسا بولىدۇ.پەقەت سىزنىڭ ئاۋازىڭىزنى ئاڭلاپ چۈشىنىشكە بولسىلا شۇنىڭ ئۆزى كۇپايە.
 faq-why-10k-hours-q = ئاۋازنى ياخشى تونۇش ئۈچۈن نېمىشقا ھەر بىر تىلدا 10 مىڭ سائەتلىك ئاۋاز ئامبىرى بولۇشى كېرەك؟
 faq-why-10k-hours-a = بۇ ئاۋازنى تېكىستكە ئايلاندۇرۇش(ئاۋازنى تونۇش)  سىستېمىسىنى مەشىقلەندۈرۈشكە كېرەك بولغان ئاۋاز ئامبىرىنىڭ ئۇزۇنلۇقىدۇر.
-faq-how-calc-hours-q = Common Voice سائەتنى قانداق ھىساپلايدۇ؟
+faq-how-calc-hours-q = Common Voice سائەتنى قانداق ھىسابلايدۇ؟
 faq-how-calc-hours-a = بىز ھەربىر ئۈن خاتىرىسىنىڭ ئوتتۇرىچە ئۇزۇنلۇقىنى مۆلچەرلەش ئارقىلىق سائەتنى ھېسابلاپ چىقىمىز، .ئاندىن بۇ ساننى بارلىق تىللاردىكى ئۈن خاتىرىسىنىڭ ئومۇمىي سانىغا كۆپەيتىمىز.
-faq-where-src-from-2-q = ئەسلى تېكىست نەدىن كەلگەن؟
+faq-where-src-from-2-q = ئەسلىي تېكىست نەدىن كەلگەن؟
 faq-where-src-from-2-a =
     بىزنىڭ تېكىستىمىز ئەسلىدىكى تۆھپىكارلارنىڭ تەقدىم ئېتىشى شۇنداقلا <italic> بۇ ئاجايىپ ھايات </italic> غا ئوخشاش ئاممىۋى تور كىنو قوليازمىلىرىدىكى دىئالوگلاردىن تەركىب تاپقان.
     
@@ -490,6 +520,9 @@ faq-search-for-answers =
 ## ABOUT US
 
 about-title = نېمە ئۈچۈن Common Voice؟
+about-header-description-v2 =
+    <p> Common Voice  بولسا پۈتۈن دۇنيادىكى پىدائىي تۆھپىكارلارنىڭ ئاۋازلىرى ئارقىلىق ھەرىكەتلەندۈرۈلگەن ئوچۇق ئاۋازلىق سانلىق مەلۇمات ئامبىرىدۇر. ئاۋازلىق ئەپلەرنى ياسىماقچى بولغان كىشىلەر بۇ سانلىق مەلۇمات ئامبىرىنى ئىشلىتىپ، ماشىنىلىق ئۆگىنىش مودېللىرىنى مەشىق قىلدۇرالايدۇ. <p>
+    <p> ھازىر كۆپلىگەن ئاۋازلىق سانلىق مەلۇماتلىرى مەلۇم شىركەتلەرگىلا تەۋە بولۇپ، يېڭىلىق يارىتىشنى بوغۇپ قويۇۋاتىدۇ، ھەمدە ئۇ ئىنگلىزچە سۆزلىمەيدىغانلار ، ھەر خىل رەڭلىك ئىرقلار ، مېيىپلار ، ئاياللار ۋە LGBTQIA + كىشىلەرنى نەزەرگە ئالمايۋاتىدۇ. يەنى ، ئاۋاز ئىقتىدارىغا ئىگە ئەپلەر كۆپلىگەن تىللاردا ئىشلىمەيدۇ، ياكى ئىشلىدى دېگەن تەقدىردىمۇ، ئۇ ھەممە ئادەمگە ئوخشاش ياخشى ئىشلىمەسلىكى مۇمكىن. بىز پۈتۈن دۇنيادىكى كىشىلەرنى سەپەرۋەر قىلىپ ئۇلارنىڭ ئاۋازلىرىنى ھەمبەھىرلەش ئارقىلىق بۇ ھالەتنى ئۆزگەرتمەكچىمىز. <p>
 how-does-it-work-title-v2 = Common Voice نىڭ خىزمەت پىرىنسىپى قانداق؟
 how-does-it-work-text = بىز ئوچۇق مەنبەلىك ئاۋاز ئامبىرى توپلاۋاتىمىز. ئاۋازىڭىزنى تەقدىم قىلىڭ، باشقىلارنىڭ ئاۋازىنىڭ توغرىلىقىنى دەلىللەڭ، ھەممەيلەن پايدىلىنىشى ئۈچۈن ئامبارنى تېخىمۇ ياخشىلاڭ.
 
@@ -534,6 +567,8 @@ about-get-involved-text-2 =
      <matrixLink>Matrix</matrixLink> گە يوللاڭ.
 about-stay-in-touch = ئالاقىنى قانداق ساقلاپ قالىمەن؟
 about-stay-in-touch-button = تىزىملىتىڭ
+about-stay-in-touch-text-1 = ئېلخەت تىزىملىكىگە <emailFragment> تىزىملىتىش <emailFragment> ئارقىلىق ھەر خىل تەشۋىقات، پائالىيەتلەرگە قانداق قاتنىشىدىغانلىقىنى بىلەلەيسىز، ھەمدە Common Voice نىڭ ئىقتىدارلىرىنى ئورتاق لايىھەلەشنى ئۆگىنەلەيسىز.
+about-stay-in-touch-text-2 = مۇھىم سۆھبەتلەر ئۈچۈن <discourseLink> Discourse </discourseLink> غا، ياكى تېزلا مەسلىھەت سوراش ئۈچۈن <matrixLink> Matrix </matrixLink> غا قوشۇلسىڭىز، Mozilla تىل مەھەللىسىدىكى باشقىلار بىلەن كۆرۈشەلەيسىز.
 about-nav-why-common-voice = نېمىشقا؟
 about-nav-how-it-works = قانداق؟
 about-nav-partners = ھەمكارلاشقۇچىلار
@@ -545,33 +580,47 @@ about-nav-playbook = قانداق قاتنىشىشنى ئۆگىنىۋېلىڭ
 ## What is a language
 
 about-playbook-what-is-language = Common Voice دا قايسى تىل بار؟
+about-playbook-what-is-language-content-1 = تىل ھەققىدە ناھايىتى كۆپلىگەن تەپەككۇر ئۇسۇللىرى بار. ئاۋاز تونۇش مودېلىنىڭ مەقسىتى ئۈچۈن، Common Voice بولسا «ئۆزئارا چۈشىنىشچانلىق» قا، ياكى «بۇ تىلدا سۆزلىگۈچىلەر چۈشىنەي دېسە ئاساسەن بىر-بىرىنى چۈشىنەلەمدۇ؟ » دېگەن مەسىلىگە مەركەزلەشتۈرۈشنى تەۋسىيە قىلىدۇ.
+about-playbook-what-is-language-content-2 = بىز ئاۋاز مودېللىرىنىڭ ناھايىتى كۆپ، خىلمۇخىل كىشىلەرنىڭ ئاۋازىنى چۈشىنىشتە تېخىمۇ ياخشى بولۇشىنى ئۈمىد قىلىمىز. بۇنىڭ ئۈچۈن، بىر ئاۋازلىق سانلىق مەلۇمات ئامبىرى چوقۇم ناھايىتى كۆپ، پەرقلىق كىشىلەرگە ۋەكىللىك قىلالىشى كېرەك.
+about-playbook-what-is-language-content-3 = بەزى تىللارنىڭ گرامماتىكىسى، سۆزلۈك ۋە تەلەپپۇزىدا غايەت زور ئۆزگىرىش بار. بۇ سەۋەبتىن، بىز 2022-يىلى <ctaLink> «ۋارىيانتلار» </ctaLink> نى تونۇشتۇرىمىز. بۇ جامائەتكە تېخىمۇ چوڭ سانلىق مەلۇمات ئامبىرى ئىچىدىكى تىللىرىنى پەرقلەندۈرۈشنىڭ يولىنى بېرىدۇ.
 
 ## How do I add a language
 
 about-playbook-how-add-language = تىلنى قانداق قوشىمەن؟
+about-playbook-how-add-language-content-1 =
+    ئالدى بىلەن، تىلىڭىزنىڭ <languageLink>بار-يوقلۇقىنى تەكشۈرۈڭ</languageLink>.
+    ئەگەر بولمىسا، <languageRequestLink>تىلىڭىزنى قوشۇشنى ئىلتىماس قىلسىڭىز بولىدۇ</languageRequestLink>.
+    ئىككى باسقۇچ بار. بېكەتنى تەرجىمە قىلىش ۋە جۈملىلەرنى توپلاش
 about-playbook-how-add-language-translating-heading = بېكەتنى تەرجىمە قىلىش
 about-playbook-how-add-language-translating-content-1 = <translateVideoLink> پونتوننى قانداق ئىشلىتىش توغرىسىدىكى يېتەكچىنى كۆرۈڭ. </translateVideoLink>
+about-playbook-how-add-language-translating-content-2 =
+    بىز تەرجىمە ئۈچۈن <pontoonLink>Pontoon</pontoonLink> دەپ ئاتىلىدىغان Mozilla قورالىنى ئىشلىتىمىز. Pontoon دا نۇرغۇن تىللار بار،
+    ئەمما ئۇنىڭدا تىلىڭىز بولمىسا، <pontoonRequestLink> تىلىڭىزنىڭ قوشۇشنى تەلەپ قىلسىڭىز بولىدۇ</pontoonRequestLink>.
+    ئاندىن، Common Voice قۇرۇلۇشىدا تىلنى ئىشلىتىش ئۈچۈن،
+    <githubRepoLink> GitHub دا يېڭى تىلنى ئىلتىماس قىلىڭ<githubRepoLink>. <localizationFragment> تەپسىلاتىنى تور بەت تەرجىمىسىدىن كۆرۈڭ</localizationFragment>.
 about-playbook-how-add-language-collecting-sentences-heading = جۈملە توپلاش
+about-playbook-how-add-language-collecting-sentences-content-1 = <sentenceCollectorVideo>جۈملىلەرنى يىغىش قوللانمىسىنى كۆرۈڭ</sentenceCollectorVideo>.
 about-playbook-how-add-language-collecting-sentences-content-3 = <sentenceCollectorFragment> جۈملىلەرنى توپلاش </ entenceCollectorFragment> دىكى تېخىمۇ كۆپ مەزمۇنلارنى كۆرۈڭ.
 
 ## How does localization work
 
-about-playbook-how-localize = بېكەتنى يەرلىكلەشتۈرۈش قانداق ئىلىپ بېرىلىدۇ؟
-about-playbook-how-localize-content-1 = Common Voiceنىڭ تەرجىمە خىزمىتى <strong>Pontoon</strong> دا ئىلىپ بىرىلىدۇ.
-about-playbook-how-localize-content-4 = توربەتنىڭ %75 تەرجىمە خىزمىتى پۈتكەندىن كىيىن ئىلان قىلىشقا بولىدۇ.
+about-playbook-how-localize = تور بېكەتنى يەرلىكلەشتۈرۈش قانداق ئېلىپ بېرىلىدۇ؟
+about-playbook-how-localize-content-1 = Common Voice نىڭ تەرجىمە خىزمىتى <strong>Pontoon</strong> دا ئېلىپ بېرىلىدۇ.
+about-playbook-how-localize-content-4 = توربەتنىڭ %75 تەرجىمە خىزمىتى پۈتكەندىن كېيىن ئېلان قىلىشقا بولىدۇ.
 about-playbook-how-localize-content-5 = ياردەم قىلىش ئۈچۈن سىن چۈشەندۈرگۈچىمىزنى كۆرۈڭ
 
 ## How to add sentences
 
 about-playbook-how-add-sentences = جۈملىلەرنى قانداق قوشىمەن؟
-about-playbook-how-add-sentences-content-4 = ھەر چارشەنبە دەلىللەنگەن جۈملىلەر  ئېكىسپورت قىلىنىدۇ ، ھەمدە كېيىنكى نەشرىدە قوشۇپ ئىلان قىلىنىدۇ.
+about-playbook-how-add-sentences-content-4 = دەلىللەنگەن جۈملىلەر ھەر چارشەنبە چىقىرىلىدۇ، ھەمدە كېيىنكى نەشرىدە قوشۇپ ئېلان قىلىنىدۇ.
 
 ## How to record quality
 
 about-playbook-how-record-quality = قانداق قىلغاندا يۇقىرى سۈپەتلىك ئاۋازنى ئۈنگە ئالغىلى بولىدۇ؟
-about-playbook-how-record-content-1 = نورمال ئاۋازىڭىزدا سۆزلەڭ! بۇ يەردە سىزنىڭ ئەسلىدىكى سۆزلەش ئۇسۇلىڭىزنى قارشى ئالىمىز - تەلەپپۇزىڭىزنىڭ ئەسلىدىكىدەك بولىشىنى ئۈمۈد قىلىمىز ، ھەمدە ئادەتتىكى ئاۋاز چوڭلۇقى، ئۇسلۇبىڭىز ۋە ئىنتوناتسىيەرىڭىزنى ئۈمىد قىلىمىز.
+about-playbook-how-record-content-1 = نورمال ئاۋازىڭىزدا سۆزلەڭ! بۇ يەردە سىزنىڭ ئەسلىدىكى سۆزلەش ئۇسۇلىڭىز بويىچە سۆزلىشىڭىزنى قارشى ئالىمىز، سۆزلىگەن چاغدىكى تەلەپپۇزىڭىزنىڭ ئەسلىدىكىدەك بولۇشىنى، ھەمدە ئاۋازىڭىزنىڭ يۇقىرى-تۆۋەنلىكى، سۆزلەش ئۇسلۇبىڭىز ۋە ئىنتوناتسىيەيىڭىزنىڭ ئادەتتە قانداق بولسا شۇنداق بولۇشىنى ئۈمىد قىلىمىز.
 about-playbook-how-record-content-2 = شاۋقۇننىڭ بەك كۈچلۈك بولۇشىدىن ساقلىنىڭ -سىزنىڭ ئاۋازىڭىزنى ئاڭلاش ئاسان بولسۇن.
-about-playbook-how-record-content-3 = جۈملىنى ئەستايىدىل ئوقۇڭ - چۈشۈرۈپ قويماڭ ، ئۆزگەرتمەڭ ياكى سۆز قوشماڭ.
+about-playbook-how-record-content-3 = جۈملىنى ئەستايىدىل ئوقۇڭ، چۈشۈرۈپ قويماڭ، ئۆزگەرتمەڭ ياكى سۆز قوشماڭ.
+about-playbook-how-record-content-4 = سۆزلەشتىن بۇرۇن سۇپىنىڭ ئۈنگە ئېلىشنى باشلىغانلىقىغا ھەمدە سۆزلەپ توختىغاندا ئۈنگە ئېلىشنى توختىتىشقا كاپالەتلىك قىلىڭ.
 about-playbook-how-record-content-5 = <accuracyLink> توغرىلىق ئۆلچىمىگە قاراڭ. </accuracyLink>
 
 ## How to grow language
@@ -593,10 +642,12 @@ about-playbook-how-access-dataset = سانلىق مەلۇمات توپلىمىن
 ## How are decisions made
 
 about-playbook-how-project-governance = تۈر قارارلىرى قانداق چىقىرىلىدۇ؟
+about-playbook-how-project-governance-content-2 = باشقۇرۇشىمىز تۆۋەندىكىلەر ئاساسىدا:
 about-playbook-how-project-governance-content-3 = مەخپىيەتلىك، بىخەتەرلىك ۋە ئاشكارىلىق.
 about-playbook-how-project-governance-content-4 = مەھەللىدە قارار چىقىرىشقا قاتنىشىش.
 about-playbook-how-project-governance-content-5 = قىممەت ۋە تونۇش.
 about-playbook-how-project-governance-content-6 = ئۆز-ئارا جاۋابكارلىق.
+about-playbook-how-project-governance-content-7 = <governanceLink>قۇرۇلۇشنى قانداق باشقۇرۇدىغانلىقىمىزنى تەپسىلىي ئوقۇڭ</governanceLink>
 
 ## Glossary
 
@@ -628,7 +679,7 @@ data-download-deny = ياق
 data-download-license = ئىجازەتنامە: <licenseLink> CC-0 </licenseLink>
 data-download-modal = سىز <size>{ $size }GB</size> نى چۈشۈرۈشنى باشلىماقچى بولۇۋاتىسىز؟
 data-subtitle = بىز ئوچۇق ۋە ھەركىم قوللىنالايدىغان سانلىق مەلۇمات ئامبىرىنى قۇرۇپ چىقىۋاتىمىز ، بۇنىڭ بىلەن كۆپچىلىك ئاۋازلىق سۆزلىيەلەيدىغان قوللىنىشچان پروگراممىلارنى مەشىق قىلدۇرالايدۇ.
-data-explanatory-text = چوك ھەجىمدىكى ۋە ئىچىۋېتىلگەن ئاۋاز سانلىق مەلۇمات ئاۋاز تونۇش تېخنىكىسىدىكى ماشىنا ئۆگىنىشكە قارىتا يېڭىلىق يارىتىش شۇنداقلا ساغلام بولغان سودا رىقابىتىنى ئىلگىرى سۈرىدىغانلىقىغا ئىشىنىمىز. بۇ بىر دۇنياۋى نىشان بولۇپ بىز ھەر بىرىڭلارنىڭ ئىشتىراك قىلىشقا تەكلىپ قىلىمىز. بىزنىڭ مەقسىتىمىز ئاۋاز تونۇش تېخنىكىسىنىڭ تېخىمۇ كەڭ دائىرىلىك، دۇنيانىڭ ھەر قايسى جايلىرىدىن ئۆزىگە كۆپ خىللىقنى مۇجەسسەملىگەن بولۇشىغا ياردەمدە بولۇش.
+data-explanatory-text = چوك ھەجىمدىكى ۋە ئېچىۋېتىلگەن ئاۋاز سانلىق مەلۇمات ئاۋاز تونۇش تېخنىكىسىدىكى ماشىنا ئۆگىنىشكە قارىتا يېڭىلىق يارىتىش شۇنداقلا ساغلام بولغان سودا رىقابىتىنى ئىلگىرى سۈرىدىغانلىقىغا ئىشىنىمىز. بۇ دۇنياۋى بىر نىشان بولۇپ، بىز ھەر بىرىڭلارنى ئىشتىراك قىلىشقا تەكلىپ قىلىمىز. بىزنىڭ مەقسىتىمىز ئاۋاز تونۇش تېخنىكىسىنىڭ تېخىمۇ كەڭ دائىرىلىك، دۇنيانىڭ ھەر قايسى جايلىرىدىن كۆپ خىللىقنى ئۆزىگە مۇجەسسەملىگەن بولۇشىغا ياردەمدە بولۇش.
 data-get-started = <speechBlogLink>ئاۋاز تونۇتۇشنى باشلاڭ</speechBlogLink>
 data-other-title = باشقا ئاۋاز توپلىمى…
 data-other-goto = { $name } نى ئېچىڭ
@@ -648,7 +699,7 @@ review-aborted = يۈكلەش ئەمەلدىن قالدۇرۇلدى. ئۈن خا
 review-submit-title = تەكشۈرۈش ۋە يوللاش
 review-submit-msg = ئۈنگە ئالغىنىڭىزغا رەھمەت<lineBreak></lineBreak> ئەمدى تەكشۈرۈڭ شۇنداقلا ئاۋازىڭىزنى يوللاڭ.
 review-recording = تەكشۈرۈش
-review-rerecord = قايتا ئۈنگە ئىلىڭ
+review-rerecord = قايتا ئۈنگە ئېلىڭ
 review-cancel = يوللاشنى ئەمەلدىن قالدۇر
 review-keep-recordings = ئۈن خاتىرىسىنى ساقلاڭ
 review-delete-recordings = ئۈن خاتىرەمنى ئۆچۈر
@@ -664,6 +715,7 @@ datasets-positioning =
     
     باشقا ئوچۇق مەنبەلىك ئاۋاز ئامبارلىرى توغرىسىدا Common Voice نىڭ ئۈزلۈكسىز تەرەققىياتىغا ئەگىشىپ بىزنىڭ يېڭىلاش مەركىزىمىز بولۇپ قالغان بۇ بېتىمىزدىن پايدىلىنىڭ.
 language = تىل
+download-dataset-header = سانلىق مەلۇمات توپلىمىنى چۈشۈرۈش
 # File size in gigabytes
 size = چوڭلۇقى
 validated-hr-total = ئومۇمىي دەلىللەنگەن سائەت
@@ -706,6 +758,9 @@ more = تېخىمۇ كۆپ
 close = تاقا
 download = چۈشۈر
 dataset-version = نەشرى
+sha256-checksum-copied = SHA256 يىغىندا تەكشۈرۈش كۆچۈرۈلدى!
+sha256-checksum-copied-error = SHA256 يىغىندا تەكشۈرۈشىنى كۆچۈرەلمىدى
+clipboard-not-supported = چاپلاش تاختىسىنى قوللىمايدۇ
 
 ## Download Modal
 
@@ -739,20 +794,30 @@ other-language = باشقا تىل
 ## Request Language Pages
 
 request-language-heading = يېڭى تىل ھەققىدە سوئال سوراڭ
+request-language-explanation-1 =
+    تىلىڭىزنىڭ تىزىملىكتە بار-يوقلۇقىنى تەكشۈرۈڭ
+    <languagesPageLink> Common Voice تىللار بېتى </languagesPageLink>.
+    ئەگەر ئۇنداق بولمىسا، بۇ جەدۋەلنى تولدۇرۇڭ، بىز <strong>سىزگە قۇلايلىق ئېلخەت ئەۋەتىمىز
+    خەتتە تىلىڭىزنى قانداق تەڭشەش چۈشەندۈرۈلگەن </ strong>.
 request-language-form-email =
     .label = ئېلخەت ئادرېسىڭىز
 request-language-form-info =
     .label = تىل ھەققىدىكى ئۇچۇرلار
+request-language-form-info-explanation =
+    تىل ھەققىدە ئىمكانقەدەر كۆپرەك ئۇچۇر قوشۇڭ. بۇ
+    تۆۋەندىكىلەرنى ئۆز ئىچىگە ئالىدۇ:
 request-language-form-info-explanation-list-1 = تىلىڭىزنىڭ نامى
 request-language-form-info-explanation-list-2 = ئەگەر bfr بولسا <isoCodeLink> ISO كودى </isoCodeLink>
 request-language-form-info-explanation-list-3 = مەزكۇر تىلنى چۈشىنىشىمىزگە ياردەم بېرەلەيدىغان تور بېكەتلەرگە ئۇلىنىش
 request-language-google-recaptcha-required = داۋاملاشتۇرماقچى بولسىڭىز reCAPTCHA تەلەپ قىلىنىدۇ
 request-language-google-recaptcha-error = ReCAPTCHA دا مەسىلە كۆرۈلدى. قايتا سىناڭ.
+# Success page
+request-language-success-heading = رەھمەت سىزگە! يېڭى تىل قوشۇش ئىلتىماسىنى ئەۋەتتىڭىز
 
 ## Languages Overview
 
-language-section-in-progress = ئىلگىرىلەۋاتىدۇ
-language-section-in-progress-new-description = نۆۋەتتە بۇ تىللارغا ئىجتىمائىي توپ تەرىپىدىن خىزمەتلەر ئىلىنىپ بېرىلىۋاتىدۇ. بۇ ئىلگىرىلەش سىتونلىرى ھەر قايسى تىللارنىڭ <localizationGlossaryLink>تور بېتىنى يەرلىكلەشتۈرۈش</localizationGlossaryLink> شۇنداقلا <sentenceCollectionGlossaryLink>جۈملە يىغىش</sentenceCollectionGlossaryLink> ئەھۋالىنى كۆرسىتىپ بېرىدۇ.
+language-section-in-progress = ئىلگىرىلەش
+language-section-in-progress-new-description = نۆۋەتتە بۇ تىللار جامائەت ئىجادىيەت باسقۇچىدا تۇرۇۋاتىدۇ. بۇلار ھەر قايسى تىللارنىڭ <localizationGlossaryLink>تور بېكەتنى يەرلىكلەشتۈرۈش</localizationGlossaryLink> شۇنداقلا <sentenceCollectionGlossaryLink>جۈملە يىغىش</sentenceCollectionGlossaryLink> ئەھۋالىنى كۆرسىتىدۇ.
 language-section-launched = ئېلان قىلىندى
 language-section-launched-description = ئېلان قىلىنغان تىللارنىڭ تور بىتى مۇۋەپپەقىيەتلىك ھالدا <localizationGlossaryLink> يەرلىكلەشتۈرۈلگەن </localizationGlossaryLink>، شۇنداقلا يېتەرلىك  <sentenceCollectionGlossaryLink>توپلانغان جۈملىلىرى</sentenceCollectionGlossaryLink> بولسا <speakLink>سۆزلەپ</speakLink> ۋە <listenLink>ئاڭلاپ</listenLink> تۆھپە قوشۇش باسقۇچىغا ماڭالايدۇ.
 languages-show-more = تەپسىلاتى
@@ -765,6 +830,7 @@ language-speakers = سۆزلىگۈچىلەر
 localized = يەرلىكلەشتۈرۈلگەن
 sentences = جۈملىلەر
 language-validation-hours = سائەت
+language-validation-progress = دەلىللەشنىڭ ئىلگىرىلىشى
 
 ## Contribution
 
@@ -772,6 +838,8 @@ action-click = چېكىڭ
 action-tap = Tap
 contribute = تۆھپە قوشاي
 listen = ئاڭلاي
+write = يازاي
+review = تەكشۈرەي
 skip = ئاتلا
 shortcuts = تېزلەتمە
 clips-with-count-pluralized =
@@ -786,42 +854,45 @@ contribute-more =
         [one] يەنە { $count } نى قىلىشقا تەييارمۇ؟
        *[other] يەنە { $count } نى قىلىشقا تەييارمۇ؟
     }
-record-cta = ئۈنگە ئىلىشنى باشلا
+record-cta = ئۈنگە ئېلىشنى باشلا
 record-platform-not-supported = كەچۈرۈڭ ، سىزنىڭ سۇپىڭىزنى ھازىرچە قوللىمايدۇ.
 record-platform-not-supported-desktop = ئۈستەل يۈزى ئۈسكۈنىلىرىدە چۈشۈرۈش ئارقىلىق تۆھپە قوشالايسىز…
-record-platform-not-supported-ios-non-safari = iOS دا safari ئارقىلىق ئۈنگە ئىلىشنى قوزغىتىپ داۋاملاشتۇرۇڭ...
+record-platform-not-supported-ios-non-safari = iOS دا safari ئارقىلىق ئۈنگە ئېلىشنى قوزغىتىپ داۋاملاشتۇرۇڭ…
 record-must-allow-microphone = مىكروفوننى ئىشلىتىشكە رۇخسەت قىلىشىڭىز كېرەك.
 record-no-mic-found = مىكروفون تېپىلمىدى.
 record-error-too-short = خاتىرىلەش بەك قىسقا بولۇپ قالدى.
 record-error-too-long = خاتىرىلەش بەك ئۇزۇن بولۇپ قالدى.
 record-error-too-quiet = خاتىرىلەش بەك پەس بولۇپ قالدى.
-record-cancel = قايتا ئۈنگە ئىلىشنى بىكار قىل
+record-cancel = قايتا ئۈنگە ئېلىشنى بىكار قىل
 record-instruction = { $actionType }<recordIcon></recordIcon> ئاندىن جۈملىنى ئۈنلۈك ئوقۇڭ
 record-stop-instruction = { $actionType }<stopIcon></stopIcon>  تاماملانغاندىن كېيىن
 record-three-more-instruction = ئۈچى قالدى!
-record-again-instruction = ناھايىتى ياخشى! <recordIcon></recordIcon> كېيىنكى ئاۋازنى ئۈنگە ئىلىڭ
+record-again-instruction = ناھايىتى ياخشى! <recordIcon></recordIcon> كېيىنكى ئاۋازنى ئۈنگە ئېلىڭ
 record-again-instruction2 = داۋاملاشتۇرۇڭ، يەنە ئۈنگە ئېلىڭ <recordIcon></recordIcon>
 record-last-instruction = <recordIcon> </recordIcon> ئەڭ ئاخىرقىسى!
 review-tooltip = تەكشۈرۈڭ شۇنداقلا بۇ يەرنىڭ ئۆزىدە قايتا ئۈنگە ئېلىڭ
 share-clip = ئاۋازىڭىزنى ھەمبەھىرلەڭ
 share-common-voice = Common Voice نى ئورتاقلىشىڭ
-review-instruction = تەكشۈرۈڭ ۋە زۆرۈر بولسا قايتا ئۈنگە ئىلىڭ
+review-instruction = تەكشۈرۈڭ ۋە زۆرۈر بولسا قايتا ئۈنگە ئېلىڭ
 record-submit-tooltip = { $actionType }تەييار بولغاندا يوللاڭ
 clips-uploaded = ئاۋاز يۈكلەندى
 record-abort-title = ئاۋۋال خاتىرىلەشنى تاماملامسىز؟
 record-abort-text = ھازىر ئايرىلسىڭىز ئىلگىرىلىشىڭىزنى يوقىتىسىز
 record-abort-submit = ئاۋازنى يوللاش
-record-abort-continue = ئۈنگە ئىلىش ئاخىرلاشسۇن
+record-abort-continue = ئۈنگە ئېلىش ئاخىرلاشسۇن
 record-abort-delete = چېكىنىش ۋە ئاۋازنى ئۆچۈرۈش
 listen-instruction = { $actionType }<playIcon></playIcon>ئۇلار جۈملىنى توغرا سۆزلەپتىمۇ؟
 listen-again-instruction = يارايسىز! <playIcon></playIcon> تەييار بولغاندا قايتا ئاڭلاڭ
 listen-3rd-time-instruction = ئىككىسى تۈگىدى ، داۋاملاشتۇرۇڭ! <playIcon> </playIcon>
 listen-last-time-instruction = <playIcon></playIcon> ئەڭ ئاخىرقىسى!
 listen-empty-state = بۇ تىلدىكى دەلىللەيدىغان ئاۋازلار تۈگىدى...
+listen-loading-error =
+    بىزدە سىزگە ئاڭلاتقۇدەك ھېچقانداق ئاۋاز پارچىسى يوق.
+    سەل تۇرۇپ قايتا سىناڭ.
 speak-empty-state = بۇ تىلدىكى ئۈنگە ئالدىغان جۈملىلەر تۈگىدى...
 speak-empty-state-cta = جۈملىلەرنى قوشۇڭ
 speak-loading-error = ۋاقتىنچە ئۈنگە ئالىدىغان جۈملە يوق. سەل تۇرۇپ قايتا سىناڭ.
-record-button-label = ئاۋازىڭىزنى ئۈنگە ئىلىڭ
+record-button-label = ئاۋازىڭىزنى ئۈنگە ئېلىڭ
 share-title-new = تېخىمۇ كۆپ ئاۋاز تېپىشىمىزغا <bold>ياردەم قىلىڭ</bold>
 keep-track-profile = تەرجىمىھال قۇرۇش ئارقىلىق ئىلگىرىلىشىڭىزنى ئىز قوغلاپ تۇرۇڭ
 login-to-get-started = باشلاش ئۈچۈن كىرىڭ ياكى تىزىملىتىڭ
@@ -831,6 +902,11 @@ target-segment-first-banner = Common Voice نىڭ { $locale } تىكى بىرى�
 target-segment-add-voice = ئاۋازىڭىزنى قوشۇڭ
 target-segment-learn-more = تەپسىلاتى
 
+## Contribution Nav Items
+
+contribute-voice-collection-nav-header = ئاۋاز توپلىمى
+contribute-sentence-collection-nav-header = جۈملە توپلىمى
+
 ## Reporting
 
 report = دوكلات
@@ -838,7 +914,7 @@ report-title = دوكلات يوللاش
 report-ask = بۇ جۈملىدە قانداق مەسىلىلەرگە دۇچ كەلدىڭىز؟
 report-offensive-language = ھاقارەتلىك سۆز
 report-offensive-language-detail = بۇ جۈملىدە ھۆرمەتسىزلىك ياكى ھاقارەت تىلى بار.
-report-grammar-or-spelling = گرامماتىكىلىق / ئىملا خاتالىقى
+report-grammar-or-spelling = گىرامماتىكىلىق / ئىملا خاتالىقى
 report-grammar-or-spelling-detail = بۇ جۈملىدە گرامماتىكىلىق ياكى ئىملا خاتالىقى بار.
 report-different-language = ئوخشىمىغان تىل
 report-different-language-detail = مەن سۆزلەيدىغان تىلغا ئوخشىمايدىغان تىلدا يېزىلىپتۇ.
@@ -880,7 +956,7 @@ clips-you-recorded = سىز ئۈنگە ئالغان ئاۋازلار
 clips-you-validated = سىز دەلىللىگەن ئاۋازلار
 todays-recorded-progress = Common Voice نىڭ خاتىرىلەنگەن ئاۋازدىكى بۈگۈنكى ئىلگىرىلىشى
 todays-validated-progress = Common Voice نىڭ دەلىللەنگەن ئاۋازدىكى بۈگۈنكى ئىلگىرىلىشى
-stats = سىتاتىستىكا
+stats = ئىستاتىستىكا
 awards = مۇكاپات
 you = سىز
 everyone = ھەممەيلەن
@@ -914,15 +990,15 @@ finish-editing = ئاۋۋال تەھرىرلەشنى تاماملامسىز؟
 lose-changes-warning = ھازىر ئايرىلسىڭىز ئۆزگىرىشلەر يوق بولۇپ كېتىدۇ
 build-custom-goal = ئىختىيارى نىشان تىكلەڭ
 help-reach-hours-pluralized =
-    { $language } دىكى { NUMBER($hours) ->
-        [one] { $hours } سائەت
-       *[other] { $language } دىكى { $hours } سائەت شەخسى نىشانغا يېتىشىمىزگە ياردەم قىلىڭ
-    }شەخسى نىشانغا يېتىشىمىزگە ياردەم قىلىڭ
+    { NUMBER($hours) ->
+        [one] { $language } دىكى { $hours } سائەت شەخسىي نىشانغا يېتىشىمىزگە ياردەم قىلىڭ
+       *[other] { $language } دىكى { $hours } سائەت شەخسىي نىشانغا يېتىشىمىزگە ياردەم قىلىڭ
+    }
 help-reach-hours-general-pluralized =
-    Common Voice نىڭ  { $language } دىكى { NUMBER($hours) ->
-        [one] { $hours } سائەت
-       *[other] { $hours } سائەت
-    } شەخسى نىشانغا يېتىشىگە ياردەم قىلىڭ
+    { NUMBER($hours) ->
+        [one] Common Voice نىڭ { $hours } سائەت شەخسى نىشانغا يېتىشىگە ياردەم قىلىڭ
+       *[other] Common Voice نىڭ { $hours } سائەت شەخسى نىشانغا يېتىشىگە ياردەم قىلىڭ
+    }
 set-a-goal = نىشان بەلگىلەڭ
 cant-decide = قارار قىلالمىدىڭىزمۇ؟
 activity-needed-calculation-plural =
@@ -989,8 +1065,13 @@ profile-form-delete = تەرجىمىھالنى ئۆچۈر
 download-q = ئۇچۇرلىرىڭىزنى چۈشۈرەمسىز؟
 download-info = چۈشۈرمەكچى بولغان نەرسىنى بىزگە ئېيتىپ بېرىڭ:
 download-profile-title = تەرجىمىھال
+download-profile-info = ئېلخەت، ئىشلەتكۈچى ئىسمى ۋە نوپۇس ئۇچۇرىنى ئۆز ئىچىگە ئالىدۇ
+download-profile-size = بىر قانچە بايت
 download-recordings-title = ئۈن خاتىرىسى
+download-recordings-info = Mp3 ۋە مۇناسىۋەتلىك جۈملىلەرنى ئۆز ئىچىگە ئالىدۇ، تەييارلاشقا بىر ئاز ۋاقىت كېتىشى مۇمكىن
 download-recordings-size = ئادەتتە مېگابايت
+download-recordings-unavailable = باشقا تەلەپلەر داۋاملىشىۋاتقاندا خاتىرىلىرىڭىزنى تەلەپ قىلالمايسىز.
+download-recently-requested = سىز ھەر { $days } كۈندە يېڭى ئۈن خاتىرىلىرىڭىزنى تەلەپ قىلالايسىز.
 download-size = چوڭلۇقى
 download-selected = تاللانغان
 download-start = ئارخىپ ئۇچۇرىنى چۈشۈرۈش
@@ -1057,15 +1138,32 @@ contribution-criteria-nav = ئۆلچەم
 contribution-criteria-link = تۆھپە ئۆلچىمىنى چۈشىنىڭ
 contribution-criteria-page-title = تۆھپە ئۆلچىمى
 contribution-for-example = مەسىلەن
+contribution-misreadings-title = خاتا ئوقۇلغانلار
+contribution-misreadings-description-extended-list-1 = ئۈن خاتىرىلەشنىڭ بېشىدا <strong>«A»</strong> ياكى <strong>«The»</strong> كەم.
+contribution-misreadings-description-extended-list-2 = بىر سۆزنىڭ ئاخىرىدا <strong>«s»</strong> كەم.
+contribution-misreadings-description-extended-list-5 = بىر سۆزنى بىر قانچە قانچە قېتىم ئوقۇشقا ئۇرۇنغان.
+contribution-misreadings-example-1-title = ترىئاسىك ئېراسىنىڭ گىگانت دىنوزاۋرلىرى.
+contribution-misreadings-example-2-title = ترىئاسىك ئېراسىنىڭ گىگانت دىنوزاۋرى.
+contribution-misreadings-example-2-explanation = [«دىنوزاۋر» بولۇشى كېرەك]
+contribution-misreadings-example-3-title = ترىئاسى- ئېراسىنىڭ گىگانت دىنوزاۋرلىرى.
+contribution-misreadings-example-3-explanation = [ئاخىرقى سۆزنى ئۈنگە ئېلىش ئاخىرلىشىشتىن بۇرۇن ئۈزۈلۈپ قالدى]
+contribution-misreadings-example-4-title = ترىئاسىك ئېراسىنىڭ گىگانت دىنوزاۋرلىرى. ھەئە.
+contribution-misreadings-example-4-explanation = [تەلەپ قىلىنغان تېكىستتىن كۆپ خاتىرىلەندى]
 contribution-misreadings-example-5-title = بىز قەھۋە ئالماقچى.
 contribution-misreadings-example-6-title = بىز قەھۋە ئالماقچى.
 contribution-misreadings-example-6-explanation = [«بىز» بولۇشى كېرەك]
+contribution-misreadings-example-7-title = بىز قەھۋە ئالماقچى.
+contribution-misreadings-example-7-explanation = [ئەسلى تېكىستتە «ئا» يوق]
+contribution-misreadings-example-8-title = بۈركۈت تېز سۈرئەتتە ئۆتۈپ كەتتى.
 contribution-misreadings-example-8-explanation = [ماس كەلمىگەن مەزمۇن]
 contribution-varying-pronunciations-title = ھەرخىل تەلەپپۇزلار
 contribution-background-noise-title = مۇھىت شاۋقۇنى
 contribution-background-voices-title = مۇھىت ئاۋازى
 contribution-volume-title = ئاۋاز
+contribution-reader-effects-title = ئوقۇرمەن ئۈنۈمى
+contribution-just-unsure-title = ئانچە ئېنىق ئەمەسمۇ؟
 see-more = <chevron> </chevron> تېخىمۇ كۆپ
+see-less = <chevron></chevron>ئاز كۆرسەت
 
 # Don't rename the following section, its contents are auto-inserted based on the name. These strings are
 # automatically exported from Sentence Collector.
@@ -1080,7 +1178,7 @@ sc-header-add = قوشاي
 sc-header-review = تەكشۈرەي
 sc-header-rejected = رەت قىلىنغان جۈملىلەر
 sc-header-my = جۈملىلىرىم
-sc-header-statistics = ستاتىستىكا
+sc-header-statistics = ئىستاتىستىكا
 sc-header-profile = ئارخىپىم
 sc-footer-discourse = { "" }
 sc-footer-report-bugs = كەمتۈكلەرنى دوكىلات قىلىش
@@ -1106,18 +1204,31 @@ sc-home-review-text = كۆرسەتمىلەرگە ئاساسەن جۈملىلەر
 ## HOW-TO
 
 sc-howto-title = قانداق قىلىمەن
+sc-howto-addlang-title = تۆھپە قوشىدىغان تىل قوشۇلىدۇ
 sc-howto-addsen-title = يېڭى جۈملە قوشۇش
+sc-howto-cite-title = قانداق نەقىل ئالىدۇ
 sc-howto-review-title = جۈملىلەرنى تەكشۈرۈش
 sc-howto-review-subtitle = جۈملىنىڭ تۆۋەندىكى ئۆلچەملەرگە ماس كېلىدىغانلىقىنى جەزملەشتۈرۈڭ:
 sc-howto-review-criteria-1 = جۈملىنىڭ ئىملاسى چوقۇم توغرا يېزىلىشى كېرەك.
+sc-howto-review-criteria-2 = جۈملىنىڭ گرامماتىكىسى چوقۇم توغرا بولۇشى كېرەك.
+sc-howto-review-criteria-3 = جۈملىنى سۆزلىگىلى بولىدىغان بولۇشى كېرەك.
 sc-howto-review-criteria-4 = ئەگەر  جۈملە بۇ ئۆلچەمگە توشسا ، «تەستىقلاش» كۇنۇپكىسىنى بېسىڭ.
+sc-howto-review-criteria-6 = ئەگەر تەكشۈرىدىغان جۈملە تۈگەپ كەتسە، تېخىمۇ كۆپ جۈملە توپلىشىمىزغا ياردەم قىلىڭ.
+sc-howto-findpd-title = ئاممىۋى دائىرىدە جۈملىنىڭ مەۋجۇت ئىكەنلىكى بايقالدى
 sc-howto-findpd-subtitle = توردىن ئىزدەش
 sc-howto-findpd-tips = جۈملە توپلاش ئۇسۇللىرى:
+sc-howto-findpd-tips-3 = ئەپسۇسكى ۋىكى ۋاسىتە ماقالىلىرىنى ئىشلىتەلمەيمىز. شۇڭلاشقا ئۇ جايدىن كۆچۈرۈپ چاپلىماڭ.
+sc-howto-findpd-subtitle-2 = يەرلىك تەشكىلاتلار ياكى شەخسلەر بىلەن ھەمكارلاشقۇچى
 
 ## MY SENTENCES
 
 sc-my-title = جۈملىلىرىم
+sc-my-loading = جۈملىڭىزنى يۈكلەۋاتىدۇ…
+sc-my-err-fetching = جۈملىڭىزنى ئالغاندا خاتالىق كۆرۈلدى. قايتا سىناڭ.
 sc-my-no-sentences = جۈملە تېپىلمىدى!
+# Variables:
+#   $batchId (String) - A unique ID identifying the submission of sentences - sentences uploaded together all have the same batch ID
+sc-my-submission = يوللاش: { $batchId }
 # Variables:
 #   $source (String) - Associated source the user filled out when uploading the sentence
 sc-my-source = مەنبە: { $source }
@@ -1129,12 +1240,14 @@ sc-my-err-failed-delete = تاللانغان جۈملىنى ئۆچۈرەلمىد
 
 sc-rejected-title = رەت قىلىنغان جۈملىلەر
 sc-rejected-loading = رەت قىلىنغان جۈملىلەرنى يۈكلەۋاتىدۇ…
+sc-rejected-err-fetching = رەت قىلىنغان جۈملىلەرنى ئالغاندا خاتالىق كۆرۈلدى. قايتا سىناڭ.
 sc-rejected-none-found = رەت قىلىنغان جۈملىلەر تېپىلمىدى!
 
 ## STATS
 
-sc-stats-title = ستاتىستىكا
+sc-stats-title = ئىستاتىستىكا
 sc-stats-updating = يېڭىلىنىۋاتىدۇ...
+sc-stats-error = ھالىتىگە ئېرىشەلمىدۇق. سەل تۇرۇپ قايتا سىناڭ.
 
 ## ADD
 
@@ -1154,12 +1267,31 @@ sc-submit-button =
 sc-add-lang-could-not-add = تىل قوشقىلى بولمىدى.
 sc-add-lang-sec-label = تۆھپە قوشماقچى بولغان تىلنى قوشۇڭ
 sc-add-lang-sec-button = تىل قوشۇڭ
+sc-add-err-unexpected = مۇلازىمېتىردىن كۈتۈلمىگەن جاۋاب قايتۇرۇلدى
+# Variables:
+#   $sentences (Number) - Number of sentences which failed to be saved to the database - could be several different reasons
+sc-add-err-failed =
+    { $sentences ->
+        [0] ھېچقانداق جۈملە مەغلۇپ بولمىدى
+        [one] { $sentences } جۈملە مەغلۇپ بولدى
+       *[other] { $sentences } جۈملە مەغلۇپ بولدى
+    }
 sc-add-err-submission = يوللاش مەغلۇب بولدى
 sc-add-lang-process-notice = ئەگەر تىلىڭىز بۇ يەردە بولمىسا ، <languageProcessLink> بۇ جەريان  </languageProcessLink> ئارقىلىق تەلەپ قىلسىڭىز بولىدۇ.
 
 ## ADD SENTENCES CONFIRMATION
 
+sc-confirm-are-you-sure =
+    .message = جۈملىلەر تاپشۇرۇلمىدى ، راستىنلا ئايرىلماقچىمۇسىز؟
 sc-confirm-sentences-title = يېڭى جۈملىلەرنى جەزملەش
+# Variables:
+#   $countOfSentences (Number) - Number of sentences the user has filled in the submission form
+sc-confirm-sentences-found =
+    { $countOfSentences ->
+        [0] ھېچقانداق جۈملە تېپىلمىدى
+        [one] { $countOfSentences } جۈملە تېپىلدى
+       *[other] { $countOfSentences } جۈملە تېپىلدى
+    }
 sc-confirm-button-text = جەزملەشتۈرۈڭ
 
 ## LANGUAGE INFO
@@ -1233,3 +1365,34 @@ sc-validation-no-abbreviations = جۈملىدە قىسقارتىلما ئاتا�
 
 # [/SentenceCollector]
 
+add-information-button = ئۇچۇر قوش
+continue-speaking-button = رەھمەت، داۋاملىق سۆزلەي
+create-profile-text = ئۇچۇرلىرىڭىزنى ساقلىماقچىمۇ؟ <createProfile>تەرجىمىھال قۇرۇش</createProfile>
+thanks-for-voice-toast = ئاۋاز ئۇچۇرلىرىڭىزغا رەھمەت
+thanks-for-voice-toast-error = ئاۋاز ئۇچۇرلىرىڭىزنى يوللاشتا خاتالىق كۆرۈلدى
+# SECOND POST SUBMISSION CTA
+second-cta-header-text = ئاۋازىڭىزنى قوشقانلىقىڭىزغا رەھمەت!
+second-cta-subtitle-text = تەرجىمىھال ئارقىلىق پائالىيىتىڭىزنى ئىزلاپ، ئاۋاز سانلىق مەلۇمات ئىجادكارلار جامائىتى بىلەن باغلىنالايسىز.
+already-have-an-account = ھېساباتىڭىز بارمۇ؟ <login>تىزىمغا كىرىڭ</ login>
+create-profile-button = تەرجىمىھال قۇر
+# IMAGE TAGS
+img-alt-success-checkmark = مۇۋەپپەقىيەت بەلگىسى
+# GUIDELINES PAGE
+guidelines-header = تۆھپە يېتەكچىسى
+guidelines-header-subtitle = Common Voice سانلىق مەلۇمات ئامبىرىغا جۈملە ۋە ئاۋاز ئۈزۈندىلىرىنى قانداق قوشۇپ ۋە دەلىللەپ تۆھپە قوشۇشنى چۈشىنىش
+voice-collection = ئاۋاز توپلىمى
+sentence-collection = جۈملە توپلىمى
+varying-pronunciations = ھەرخىل تەلەپپۇزلار
+misreadings = خاتا ئوقۇلغانلار
+offensive-content = تېرىكتۈرىدىغان مەزمۇن
+background-noise = مۇھىت شاۋقۇنى
+background-voices = مۇھىت ئاۋازى
+volume = ئاۋاز كۈچلۈكلۈكى
+reader-effects = ئوقۇرمەن ئۈنۈمى
+just-unsure = ئانچە ئېنىق ئەمەسمۇ؟
+example = مىسال
+varying-pronunciations-example = يول ئېنىق ئەمەس.
+varying-pronunciations-tip-1 = [كانادا ئىنگلىزچىسىدا «route» نى «rowt» تەلەپپۇز قىلىشى مۇمكىن]
+varying-pronunciations-tip-2 = [ئەنگلىيە ئىنگلىزچىسىدا «root» تەلەپپۇز قىلىنىشى مۇمكىن]
+misreadings-explanation-2 = كۆپ ئۇچرايدىغان خاتالىقلار:
+misreadings-explanation-3 = ئۈنگە ئېلىشنىڭ بېشىدىكى «A» ياكى «The» كەم.
